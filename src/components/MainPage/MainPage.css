@@ -1,0 +1,19 @@
+.mainPage {
+  display: flex;
+  min-height: 100vh;
+  background-color: #fafafa;
+}
+
+.mainPageBody {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 1080px;
+  margin: auto;
+}
+
+.MainPageButton {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}

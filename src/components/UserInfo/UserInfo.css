@@ -1,0 +1,16 @@
+.UserInfoModalRoot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.UserInfoModalAvatar {
+  height: 250px;
+  width: 300px;
+  border-radius: 40px;
+}
+
+.UserInfoModalMargin {
+  margin: 0;
+}

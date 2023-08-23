@@ -1,0 +1,27 @@
+.FormLegend {
+  margin-bottom: 10px;
+}
+
+.FormContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.FormContainerError {
+  display: flex;
+}
+
+.FormStyleError {
+  color: red;
+  margin: 3px;
+}
+
+.FormContainerInput {
+  height: 40px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: aliceblue;
+  border: none;
+  outline: none;
+  resize: none;
+}
